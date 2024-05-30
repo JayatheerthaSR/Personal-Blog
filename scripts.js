@@ -8,6 +8,10 @@ document.addEventListener("DOMContentLoaded", function() {
             title: "Second Blog Post",
             content: "Nulla facilisi. Donec at felis id dolor eleifend tempus. Vivamus tincidunt, augue a volutpat placerat, nisi tortor cursus mauris, id suscipit ligula magna at eros."
         }
+        {
+            title: "Second Blog Post",
+            content: "Nulla facilisi. Donec at felis id dolor eleifend tempus. Vivamus tincidunt, augue a volutpat placerat, nisi tortor cursus mauris, id suscipit ligula magna at eros."
+        }
         // Add more blog post objects as needed
     ];
 
